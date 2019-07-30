@@ -3,65 +3,65 @@
     {
       "sys": { "id": "1" },
       "fields": {
-        "title": "queen panel bed",
-        "price": 10.99,
+        "title": "queen camp",
+        "price": 103.99,
         "image": { "fields": { "file": { "url": "./images/product-1.jpg" } } }
       }
     },
     {
       "sys": { "id": "2" },
       "fields": {
-        "title": "king panel bed",
-        "price": 12.99,
-        "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+        "title": "king",
+        "price": 122.99,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpg" } } }
       }
     },
     {
       "sys": { "id": "3" },
       "fields": {
-        "title": "single panel bed",
-        "price": 12.99,
-        "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+        "title": "single",
+        "price": 128.99,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpg" } } }
       }
     },
     {
       "sys": { "id": "4" },
       "fields": {
-        "title": "twin panel bed",
-        "price": 22.99,
-        "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+        "title": "twin",
+        "price": 222.99,
+        "image": { "fields": { "file": { "url": "./images/product-4.jpg" } } }
       }
     },
     {
       "sys": { "id": "5" },
       "fields": {
-        "title": "fridge",
-        "price": 88.99,
-        "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+        "title": "better",
+        "price": 188.99,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpg" } } }
       }
     },
     {
       "sys": { "id": "6" },
       "fields": {
-        "title": "dresser",
-        "price": 32.99,
-        "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+        "title": "candy",
+        "price": 432.99,
+        "image": { "fields": { "file": { "url": "./images/product-6.jpg" } } }
       }
     },
     {
       "sys": { "id": "7" },
       "fields": {
-        "title": "couch",
-        "price": 45.99,
-        "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+        "title": "candle",
+        "price": 245.99,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpg" } } }
       }
     },
     {
       "sys": { "id": "8" },
       "fields": {
-        "title": "table",
-        "price": 33.99,
-        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+        "title": "star",
+        "price": 133.99,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpg" } } }
       }
     }
   ]
