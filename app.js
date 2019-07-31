@@ -157,7 +157,7 @@ class UI{
                         this.setCartValues(cart);
                         lowerAmount.previousElementSibling.textContent=tempItem.amount;
                     }else{
-                       cartContent.removeChild(lowerAmount.parentElement);
+                        cartContent.removeChild(lowerAmount.parentElement.parentElement);
                        this.removeItem(id);
                     }
                 }
